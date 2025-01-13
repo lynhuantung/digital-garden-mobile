@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/noron-than-kinh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T23:55:23.803+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/noron-than-kinh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:00:19.079+07:00"}
 ---
 
 
-Não bộ của con người là một cấu trúc phức tạp và kỳ diệu với khoảng 100 tỷ nơron thần kinh. Các nơron này không tồn tại một cách riêng lẻ mà tạo thành một mạng lưới phức tạp thông qua các liên kết, gọi là synapse. Việc các nơron liên kết với nhau là một quá trình liên tục và diễn ra suốt cuộc đời của con người.
+Não bộ của con người là một cấu trúc phức tạp và kỳ diệu với khoảng 100 tỷ nơron thần kinh. Các nơron này không tồn tại một cách riêng lẻ mà tạo thành một mạng lưới phức tạp thông qua các liên kết, gọi là synapse. Việc các nơron liên kết với nhau là một quá trình liên tục và diễn ra suốt cuộc đời của con người..
 
 ### Quá Trình Liên Kết Các Nơron
 
