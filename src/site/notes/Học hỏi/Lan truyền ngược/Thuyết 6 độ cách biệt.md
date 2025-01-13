@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/lan-truyen-nguoc/thuyet-6-do-cach-biet/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:06:39.863+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/lan-truyen-nguoc/thuyet-6-do-cach-biet/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:13:25.996+07:00"}
 ---
 
 Thuyết 6 độ cách biệt (Six Degrees of Separation) là một lý thuyết xã hội học và truyền thông, gợi ý rằng bất kỳ hai người nào trên thế giới có thể kết nối với nhau qua tối đa sáu người trung gian. Nói cách khác, bạn có thể tìm một chuỗi các mối quan hệ kết nối bạn với bất kỳ ai khác trên hành tinh qua tối đa sáu bước (người quen của người quen, v.v.). Ý tưởng này bắt nguồn từ nghiên cứu của nhà tâm lý học người Hungary Stanley Milgram vào thập niên 1960 và đã trở thành cơ sở cho nhiều nghiên cứu về mạng xã hội và tương tác con người.

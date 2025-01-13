@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/so-sanh-chat-gpt-va-google-search/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:04:37.341+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/so-sanh-chat-gpt-va-google-search/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:13:00.700+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/tra-loi-ngon-ngu-tu-nhien/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:04:55.845+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/tra-loi-ngon-ngu-tu-nhien/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:13:01.084+07:00"}
 ---
 
 # Trả lời ngôn ngữ tự nhiên

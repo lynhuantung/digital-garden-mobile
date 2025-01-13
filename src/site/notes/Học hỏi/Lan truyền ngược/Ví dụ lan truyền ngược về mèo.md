@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/lan-truyen-nguoc/vi-du-lan-truyen-nguoc-ve-meo/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:06:50.334+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/lan-truyen-nguoc/vi-du-lan-truyen-nguoc-ve-meo/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:13:26.360+07:00"}
 ---
 
 Để giúp học sinh cấp 1 hiểu về lan truyền ngược một cách đơn giản, mình sẽ dùng một ví dụ quen thuộc và dễ hình dung.

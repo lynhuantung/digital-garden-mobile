@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/tu-duy-nguyen-ban/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T23:31:34.925+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/tu-duy-nguyen-ban/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:13:29.504+07:00"}
 ---
 
 # Tư Duy Nguyên Bản (First Principles Thinking)
