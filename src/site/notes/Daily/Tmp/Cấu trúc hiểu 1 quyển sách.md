@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"tags":["idea_notes"],"Date":"2024-09-04","Link":["[[Não bộ thiên tài]]"],"dg-publish":true,"dg-home":null,"permalink":"/daily/tmp/cau-truc-hieu-1-quyen-sach/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T23:13:14.260+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["idea_notes"],"Date":"2024-09-04","Link":["[[Não bộ thiên tài]]"],"permalink":"/daily/tmp/cau-truc-hieu-1-quyen-sach/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:01:33.399+07:00"}
 ---
 
 Dưới đây là một ví dụ cụ thể về cách bạn có thể áp dụng các bước và cấu trúc để hiểu rõ một cuốn sách khi sử dụng các lý thuyết từ "How to Develop A Super-Power Memory" và thuyết lan truyền kích hoạt:

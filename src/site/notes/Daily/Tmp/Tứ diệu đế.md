@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"tags":["daily","hoc-tập"],"Date":"2024-07-20","dg-publish":true,"dg-home":null,"permalink":"/daily/tmp/tu-dieu-de/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T23:09:47.428+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily","hoc-tập"],"Date":"2024-07-20","permalink":"/daily/tmp/tu-dieu-de/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:05:45.265+07:00"}
 ---
 
 **Tứ Diệu Đế** (Bốn Chân Lý Cao Quý) là những nguyên lý cơ bản trong Phật giáo, được Đức Phật Thích Ca Mâu Ni truyền dạy sau khi Ngài đạt được giác ngộ. Đây là nền tảng của toàn bộ giáo lý Phật giáo và có thể được tóm tắt một cách dễ hiểu như sau:

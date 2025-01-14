@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/ket-noi-khong-ngo/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:12:59.952+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/ket-noi-khong-ngo/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:04:10.766+07:00"}
 ---
 
 # Kết nối không ngờ tới

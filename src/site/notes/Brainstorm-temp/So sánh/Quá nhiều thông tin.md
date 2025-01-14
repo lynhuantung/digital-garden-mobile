@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/qua-nhieu-thong-tin/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:13:00.532+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/qua-nhieu-thong-tin/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:04:21.010+07:00"}
 ---
 
 # Quá nhiều thông tin

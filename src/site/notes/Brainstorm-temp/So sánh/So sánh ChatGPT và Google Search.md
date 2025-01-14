@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/so-sanh-chat-gpt-va-google-search/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:13:00.700+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/so-sanh-chat-gpt-va-google-search/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T21:56:43.255+07:00"}
 ---
-
 
 # So sánh ChatGPT và Google Search
 

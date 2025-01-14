@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/so-sanh-mindmap-va-graph-view/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T12:45:50.078+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/so-sanh-mindmap-va-graph-view/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:20:45.135+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"tags":["#creative_notes"],"Date":"2024-07-14","dg-publish":true,"dg-home":null,"permalink":"/daily/tmp/sang-tao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T23:11:47.164+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["#creative_notes"],"Date":"2024-07-14","permalink":"/daily/tmp/sang-tao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:05:02.413+07:00"}
 ---
 
 Để sáng tạo từ những ghi chú cũ, bạn có thể áp dụng một loạt các kỹ thuật và phương pháp sáng tạo để "cắt cành bỏ nhánh", "đổi hướng tiếp cận" và tạo ra các ghi chú mới đầy sáng tạo. Dưới đây là một hướng dẫn chi tiết với các phương pháp cụ thể:

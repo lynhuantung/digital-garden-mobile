@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/daily/ung-dung-ai-vao-hrm/ung-dung-ai-vao-hrm/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:13:13.632+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/daily/ung-dung-ai-vao-hrm/ung-dung-ai-vao-hrm/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:06:16.622+07:00"}
 ---
 
 

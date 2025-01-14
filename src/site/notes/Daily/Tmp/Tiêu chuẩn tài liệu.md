@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"tags":["daily"],"Date":"2024-07-28","dg-publish":true,"dg-home":null,"permalink":"/daily/tmp/tieu-chuan-tai-lieu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T23:10:17.072+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-07-28","permalink":"/daily/tmp/tieu-chuan-tai-lieu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:05:39.185+07:00"}
 ---
 
 ### Cuộc họp báo cáo tháng

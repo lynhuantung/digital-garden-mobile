@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"Permalink":null,"tags":["daily"],"Date":"2024-11-04","dg-publish":true,"dg-home":null,"permalink":"/daily/tmp/loal-graph-view-loi-ich/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T23:11:33.844+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["daily"],"Date":"2024-11-04","permalink":"/daily/tmp/loal-graph-view-loi-ich/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:04:23.054+07:00"}
 ---
 
 Chế độ xem biểu đồ cục bộ (Local Graph View) trong Obsidian là một công cụ trực quan hóa mạnh mẽ, giúp bạn hiểu rõ hơn về mối quan hệ giữa các ghi chú của mình trong một ngữ cảnh cụ thể. Nó tập trung vào một ghi chú duy nhất và hiển thị các liên kết trực tiếp đến và từ ghi chú đó, tạo ra một biểu đồ "cục bộ" tập trung vào mối quan hệ của ghi chú đó.

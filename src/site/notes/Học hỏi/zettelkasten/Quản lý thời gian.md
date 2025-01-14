@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/zettelkasten/quan-ly-thoi-gian/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T12:47:00.362+07:00"}
+{"dg-publish":true,"dg-home":false,"tags":["#quanlythoigian","#kynang"],"permalink":"/hoc-hoi/zettelkasten/quan-ly-thoi-gian/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:13:22.846+07:00"}
 ---
 
 

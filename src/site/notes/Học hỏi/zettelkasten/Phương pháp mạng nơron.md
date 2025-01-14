@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/zettelkasten/phuong-phap-mang-noron/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T12:47:11.694+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/zettelkasten/phuong-phap-mang-noron/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:13:17.772+07:00"}
 ---
-
 
 
 [[Học hỏi/zettelkasten/Zettelkasten\|Zettelkasten]]

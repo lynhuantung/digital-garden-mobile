@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/zettelkasten/index-phat-trien-ban-than/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T12:46:25.054+07:00"}
+{"dg-publish":true,"dg-home":false,"tags":["#chimuc","#phattrienbanthan"],"permalink":"/hoc-hoi/zettelkasten/index-phat-trien-ban-than/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:13:06.583+07:00"}
 ---
 
 

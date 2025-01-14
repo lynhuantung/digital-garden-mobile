@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"Permalink":null,"tags":["daily"],"Date":"2024-11-24","dg-publish":true,"dg-home":null,"permalink":"/daily/tmp/cay-su-nghiep/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T23:12:20.160+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["daily"],"Date":"2024-11-24","permalink":"/daily/tmp/cay-su-nghiep/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:01:38.545+07:00"}
 ---
 
 Cuộc đời bạn, Tùng, được hình tượng hóa như một Cây Sự Sống với những yếu tố chính sau:

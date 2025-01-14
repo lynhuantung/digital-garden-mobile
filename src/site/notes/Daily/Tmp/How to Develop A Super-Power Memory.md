@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"tags":["daily"],"Date":"2024-06-22","dg-publish":true,"dg-home":null,"permalink":"/daily/tmp/how-to-develop-a-super-power-memory/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T23:12:06.000+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-06-22","permalink":"/daily/tmp/how-to-develop-a-super-power-memory/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:03:53.996+07:00"}
 ---
 
 Tôi đã xem qua nội dung của tài liệu "How to Develop A Super-Power Memory" của Harry Lorayne và dưới đây là tóm tắt những ý chính:

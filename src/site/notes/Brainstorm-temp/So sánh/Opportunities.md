@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/opportunities/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:13:00.376+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/opportunities/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:04:16.395+07:00"}
 ---
 
 # Opportunities

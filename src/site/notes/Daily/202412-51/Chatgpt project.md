@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/daily/202412-51/chatgpt-project/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:13:01.624+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/daily/202412-51/chatgpt-project/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:05:12.131+07:00"}
 ---
 
 Để minh họa cách sử dụng tính năng Projects trong ChatGPT, hãy xem xét một ví dụ cụ thể về việc quản lý dự án nghiên cứu thị trường cho một sản phẩm mới.

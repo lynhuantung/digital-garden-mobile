@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/strengths/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:13:00.820+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/strengths/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:04:45.389+07:00"}
 ---
 
 # Strengths

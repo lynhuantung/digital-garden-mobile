@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"Permalink":null,"tags":["hoc-tập"],"Date":"2024-09-29","dg-publish":true,"dg-home":null,"permalink":"/daily/tmp/leonardo-da-vinci/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T23:11:18.852+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["hoc-tập"],"Date":"2024-09-29","permalink":"/daily/tmp/leonardo-da-vinci/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:04:14.951+07:00"}
 ---
 
 Leonardo da Vinci nổi tiếng với cách tiếp cận đa lĩnh vực, tức là ông không chỉ chuyên sâu vào một lĩnh vực mà còn kết hợp nhiều lĩnh vực khác nhau như nghệ thuật, khoa học, và công nghệ để giải quyết vấn đề. Một vài nguyên tắc quan trọng mà ông đã áp dụng, và có thể học hỏi để áp dụng vào công việc hiện đại của bạn, bao gồm:
