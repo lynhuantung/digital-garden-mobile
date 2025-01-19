@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/quan-ly-thoi-gian-va-to-chuc-cuoc-song/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:18:53.494+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/quan-ly-thoi-gian-va-to-chuc-cuoc-song/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:28.799+07:00"}
 ---
 
 

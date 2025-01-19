@@ -1,5 +1,5 @@
 ---
-{"title":"Overview of Observation","dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương8","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/chapter-8-how-to-train-your-observation/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:10:30.949+07:00"}
+{"title":"Overview of Observation","dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương8","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/chapter-8-how-to-train-your-observation/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:11.295+07:00"}
 ---
 
 ### Techniques to Improve Observation

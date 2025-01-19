@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/phan-tich-tai-chinh-ca-nhan-va-dieu-chinh-hanh-vi/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:17:58.356+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/phan-tich-tai-chinh-ca-nhan-va-dieu-chinh-hanh-vi/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:26.323+07:00"}
 ---
 
 

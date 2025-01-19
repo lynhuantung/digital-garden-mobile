@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/thuy-cham/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:12:40.496+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/thuy-cham/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:17.427+07:00"}
 ---
 
 # Thuỳ Chẩm (Occipital Lobe)

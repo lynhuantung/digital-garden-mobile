@@ -1,5 +1,5 @@
 ---
-{"title":null,"dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương5","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/peg-system/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:11:02.464+07:00"}
+{"title":null,"dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương5","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/peg-system/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:13.011+07:00"}
 ---
 
 ### Peg System

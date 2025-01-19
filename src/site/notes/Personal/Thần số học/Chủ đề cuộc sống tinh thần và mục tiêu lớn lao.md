@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/chu-de-cuoc-song-tinh-than-va-muc-tieu-lon-lao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:18:35.722+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/chu-de-cuoc-song-tinh-than-va-muc-tieu-lon-lao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:27.835+07:00"}
 ---
 
 

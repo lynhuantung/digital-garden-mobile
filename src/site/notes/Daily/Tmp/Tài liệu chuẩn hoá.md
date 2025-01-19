@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-07-21","permalink":"/daily/tmp/tai-lieu-chuan-hoa/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:05:06.648+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-07-21","permalink":"/daily/tmp/tai-lieu-chuan-hoa/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:02.299+07:00"}
 ---
 
 

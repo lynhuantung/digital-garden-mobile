@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"tags":["#taptrung","#quanlythoigian"],"permalink":"/hoc-hoi/zettelkasten/thoi-quen-hang-ngay-tam-quan-trong/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:13:39.642+07:00"}
+{"dg-publish":true,"dg-home":false,"tags":["#taptrung","#quanlythoigian"],"permalink":"/hoc-hoi/zettelkasten/thoi-quen-hang-ngay-tam-quan-trong/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:18.831+07:00"}
 ---
 
 

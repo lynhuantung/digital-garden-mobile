@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/co-gai-quang-khan-do/cuoc-gap-voi-con-soi/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:15:08.719+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/co-gai-quang-khan-do/cuoc-gap-voi-con-soi/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:19.727+07:00"}
 ---
 
 # Cuộc gặp với con sói

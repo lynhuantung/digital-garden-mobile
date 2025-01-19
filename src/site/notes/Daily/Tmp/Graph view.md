@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"Link":["https://youtu.be/Z8WIALfgaA4?si=kifWaGQJ6MNu97Kq"],"tags":["#graphview","obsidian"],"permalink":"/daily/tmp/graph-view/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:03:44.147+07:00"}
+{"dg-publish":true,"dg-home":false,"Link":["https://youtu.be/Z8WIALfgaA4?si=kifWaGQJ6MNu97Kq"],"tags":["#graphview","obsidian"],"permalink":"/daily/tmp/graph-view/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:27:59.319+07:00"}
 ---
 
 Khám phá sức mạnh của chế độ xem đồ thị trong Obsidian: Hướng dẫn chi tiết

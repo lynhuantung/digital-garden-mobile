@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["daily"],"Date":"2024-12-26","permalink":"/daily/202412-52/ghi-chu-obsidian/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T21:58:17.899+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["daily"],"Date":"2024-12-26","permalink":"/daily/202412-52/ghi-chu-obsidian/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:27:57.287+07:00"}
 ---
 
 Obsidian là một ứng dụng ghi chú mạng lưới rất phổ biến, được thiết kế để giúp người dùng lưu trữ thông tin và kiến thức theo cách có cấu trúc và linh hoạt. Đây là một công cụ mạnh mẽ để quản lý kiến thức cá nhân (PKM), cho phép người dùng tạo ra các liên kết giữa các ghi chú giống như một mạng lưới tư duy, giúp họ khám phá và tái sử dụng dữ liệu một cách hiệu quả. Sau đây là một số tính năng chính và cách thức hoạt động của Obsidian:

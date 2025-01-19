@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/kiem-tien-tu-ky-nang-ca-nhan-va-freelancing/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:16:20.446+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/kiem-tien-tu-ky-nang-ca-nhan-va-freelancing/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:22.575+07:00"}
 ---
 
 # Kiếm tiền từ kỹ năng cá nhân và freelancing

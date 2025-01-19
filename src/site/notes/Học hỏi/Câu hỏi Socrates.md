@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/cau-hoi-socrates/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:13:57.784+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/cau-hoi-socrates/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:04.739+07:00"}
 ---
 
 # Tài liệu về Câu Hỏi Socrates

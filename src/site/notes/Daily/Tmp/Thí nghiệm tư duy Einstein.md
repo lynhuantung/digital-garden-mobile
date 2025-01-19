@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["daily"],"Date":"2024-10-07","permalink":"/daily/tmp/thi-nghiem-tu-duy-einstein/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:05:13.640+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["daily"],"Date":"2024-10-07","permalink":"/daily/tmp/thi-nghiem-tu-duy-einstein/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:01.827+07:00"}
 ---
 
 Để tưởng tượng một cách chi tiết và sống động như khi thực sự trải nghiệm, bạn có thể áp dụng các kỹ thuật và phương pháp sau đây:

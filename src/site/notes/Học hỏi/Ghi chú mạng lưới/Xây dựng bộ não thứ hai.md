@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-06-22","Permalink":"[[Ứng dụng secondbrain vào obsidian]]","permalink":"/hoc-hoi/ghi-chu-mang-luoi/xay-dung-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:08:38.912+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-06-22","Permalink":"[[Ứng dụng secondbrain vào obsidian]]","permalink":"/hoc-hoi/ghi-chu-mang-luoi/xay-dung-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:06.611+07:00"}
 ---
 
 ### 10 Phương Pháp Xây Dựng Bộ Não Thứ Hai

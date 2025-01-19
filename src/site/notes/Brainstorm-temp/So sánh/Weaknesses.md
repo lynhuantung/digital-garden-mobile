@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/weaknesses/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:05:01.963+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/weaknesses/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:27:56.611+07:00"}
 ---
 
 # Weaknesses

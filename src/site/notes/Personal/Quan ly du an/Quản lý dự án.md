@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/quan-ly-du-an/quan-ly-du-an/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:18:21.387+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/quan-ly-du-an/quan-ly-du-an/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:27.363+07:00"}
 ---
 
 

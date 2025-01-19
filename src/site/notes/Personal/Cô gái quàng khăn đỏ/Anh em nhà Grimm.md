@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/co-gai-quang-khan-do/anh-em-nha-grimm/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:14:47.695+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/co-gai-quang-khan-do/anh-em-nha-grimm/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:19.391+07:00"}
 ---
 
 # Anh em nhà Grimm

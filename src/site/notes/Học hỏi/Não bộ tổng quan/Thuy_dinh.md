@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/thuy-dinh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:12:43.642+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/thuy-dinh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:17.543+07:00"}
 ---
 
 # Thuỳ Đỉnh (Parietal Lobe)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/kiem-tien-tu-cong-viec-chinh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:16:09.171+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/kiem-tien-tu-cong-viec-chinh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:22.323+07:00"}
 ---
 
 # Kiếm tiền từ công việc chính

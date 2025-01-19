@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-06-22","permalink":"/hoc-hoi/ghi-chu-mang-luoi/ung-dung-secondbrain-vao-obsidian/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:08:34.742+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-06-22","permalink":"/hoc-hoi/ghi-chu-mang-luoi/ung-dung-secondbrain-vao-obsidian/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:06.739+07:00"}
 ---
 
 ### Ứng Dụng Các Phương Pháp Vào Obsidian

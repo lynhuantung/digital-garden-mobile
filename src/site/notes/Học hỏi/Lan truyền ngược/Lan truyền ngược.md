@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/lan-truyen-nguoc/lan-truyen-nguoc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:06:32.664+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/lan-truyen-nguoc/lan-truyen-nguoc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:15.451+07:00"}
 ---
 
 Lan truyền ngược (Backpropagation) 

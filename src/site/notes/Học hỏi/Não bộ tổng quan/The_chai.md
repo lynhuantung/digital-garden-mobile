@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/the-chai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:12:37.416+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/the-chai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:17.155+07:00"}
 ---
 
 # Thể Chai (Corpus Callosum)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/tim-kiem-co-hoi-dau-tu-va-kinh-doanh-moi/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:16:32.700+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/tim-kiem-co-hoi-dau-tu-va-kinh-doanh-moi/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:23.211+07:00"}
 ---
 
 # Tìm kiếm cơ hội đầu tư và kinh doanh mới

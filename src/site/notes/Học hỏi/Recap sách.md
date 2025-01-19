@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily","hoc-tập"],"Date":"2024-07-21","permalink":"/hoc-hoi/recap-sach/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:14:06.193+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily","hoc-tập"],"Date":"2024-07-21","permalink":"/hoc-hoi/recap-sach/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:18.115+07:00"}
 ---
 
 Để viết một recap sách, bạn có thể thực hiện theo các bước sau:

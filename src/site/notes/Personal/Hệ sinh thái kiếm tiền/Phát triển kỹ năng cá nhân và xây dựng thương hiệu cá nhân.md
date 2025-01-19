@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/phat-trien-ky-nang-ca-nhan-va-xay-dung-thuong-hieu-ca-nhan/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:16:28.936+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/phat-trien-ky-nang-ca-nhan-va-xay-dung-thuong-hieu-ca-nhan/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:22.963+07:00"}
 ---
 
 # Phát triển kỹ năng cá nhân và xây dựng thương hiệu cá nhân

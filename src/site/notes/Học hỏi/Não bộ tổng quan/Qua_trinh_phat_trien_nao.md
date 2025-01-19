@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/qua-trinh-phat-trien-nao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:12:26.746+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/qua-trinh-phat-trien-nao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:16.627+07:00"}
 ---
 
 # Quá Trình Phát Triển Não

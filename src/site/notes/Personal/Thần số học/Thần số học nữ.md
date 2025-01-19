@@ -1,5 +1,5 @@
 ---
-{"Permalink":null,"dg-publish":true,"dg-home":false,"tags":["thansohoc"],"permalink":"/personal/than-so-hoc/than-so-hoc-nu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:19:57.130+07:00"}
+{"Permalink":null,"dg-publish":true,"dg-home":false,"tags":["thansohoc"],"permalink":"/personal/than-so-hoc/than-so-hoc-nu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:29.203+07:00"}
 ---
 
 Trong Thần số học, việc tính toán dựa trên ngày sinh có thể giúp tiết lộ một số khía cạnh về tính cách, tiềm năng, và con đường cuộc đời. Sau đây là phân tích cho ngày sinh 22/10/1986 của một nữ dựa trên phương pháp của Thần số học Pythagoras.

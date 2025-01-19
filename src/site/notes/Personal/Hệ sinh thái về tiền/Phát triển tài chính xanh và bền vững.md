@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/phat-trien-tai-chinh-xanh-va-ben-vung/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:18:02.286+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/phat-trien-tai-chinh-xanh-va-ben-vung/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:26.179+07:00"}
 ---
 
 

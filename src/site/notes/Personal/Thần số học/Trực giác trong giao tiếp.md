@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/truc-giac-trong-giao-tiep/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:20:10.350+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/truc-giac-trong-giao-tiep/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:29.347+07:00"}
 ---
 
 

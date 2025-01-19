@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"Mã":null,"tags":["daily"],"Date":"2024-07-09","permalink":"/daily/ung-dung-ai-vao-hrm/ai-vao-cong-viec/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:06:04.797+07:00"}
+{"dg-publish":true,"dg-home":false,"Mã":null,"tags":["daily"],"Date":"2024-07-09","permalink":"/daily/ung-dung-ai-vao-hrm/ai-vao-cong-viec/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:04.463+07:00"}
 ---
 
 #### Ứng dụng AI vào công việc

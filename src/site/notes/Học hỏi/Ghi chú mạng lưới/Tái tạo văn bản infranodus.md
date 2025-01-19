@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[Infranodus ví dụ]]","tags":["second-brain"],"Date":"2024-09-15","permalink":"/hoc-hoi/ghi-chu-mang-luoi/tai-tao-van-ban-infranodus/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:08:27.786+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[Infranodus ví dụ]]","tags":["second-brain"],"Date":"2024-09-15","permalink":"/hoc-hoi/ghi-chu-mang-luoi/tai-tao-van-ban-infranodus/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:06.483+07:00"}
 ---
 
 Sau khi đã xây dựng mạng lưới từ khóa từ một đoạn văn bằng công cụ như InfraNodus hoặc Obsidian, bước tiếp theo là tái tạo hoặc tóm tắt đoạn văn dựa trên các từ khóa và mối liên kết đã xác định. Dưới đây là cách thực hiện:

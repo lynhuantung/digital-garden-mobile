@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"tags":["#taptrung","#phattrienbanthan"],"permalink":"/hoc-hoi/zettelkasten/su-tap-trung/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:13:28.294+07:00"}
+{"dg-publish":true,"dg-home":false,"tags":["#taptrung","#phattrienbanthan"],"permalink":"/hoc-hoi/zettelkasten/su-tap-trung/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:18.671+07:00"}
 ---
 
 

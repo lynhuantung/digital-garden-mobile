@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["#obsidian","#hieusuat"],"Date":"2024-08-04","permalink":"/daily/tmp/ghi-chu-obsidian/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:02:55.502+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["#obsidian","#hieusuat"],"Date":"2024-08-04","permalink":"/daily/tmp/ghi-chu-obsidian/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:27:58.831+07:00"}
 ---
 
 Việc sử dụng Obsidian để ghi chú không chỉ mang lại lợi ích cá nhân mà còn có thể tạo ra giá trị đáng kể cho công ty. Dưới đây là một số cách mà ghi chú của bạn có thể giúp ích cho công ty và tạo ra giá trị:

@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[Khoa-hoc-than-kinh-index]]","tags":["hoc-tập","khoa-học-thần-kinh","ký-ức","synapse","noron"],"Date":null,"permalink":"/hoc-hoi/khoa-hoc-than-kinh/cung-co-noron/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:11:37.052+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[Khoa-hoc-than-kinh-index]]","tags":["hoc-tập","khoa-học-thần-kinh","ký-ức","synapse","noron"],"Date":null,"permalink":"/hoc-hoi/khoa-hoc-than-kinh/cung-co-noron/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:14.963+07:00"}
 ---
 
 # Củng Cố Nơron

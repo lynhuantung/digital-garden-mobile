@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/xay-dung-chien-luoc-kinh-doanh-tai-chinh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:18:16.071+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/xay-dung-chien-luoc-kinh-doanh-tai-chinh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:27.059+07:00"}
 ---
 
 

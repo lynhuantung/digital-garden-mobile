@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/kinh-doanh-va-quan-ly-trong-linh-vuc-bat-dong-san-va-nong-san/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:18:44.737+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/kinh-doanh-va-quan-ly-trong-linh-vuc-bat-dong-san-va-nong-san/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:28.323+07:00"}
 ---
 
 

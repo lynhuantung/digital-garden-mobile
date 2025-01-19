@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/tien-va-moi-truong-sinh-thai-hoc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:18:09.003+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/tien-va-moi-truong-sinh-thai-hoc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:26.547+07:00"}
 ---
 
 

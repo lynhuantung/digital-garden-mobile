@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/co-gai-quang-khan-do/co-be-quang-khan-do-nhan-vat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:15:02.108+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/co-gai-quang-khan-do/co-be-quang-khan-do-nhan-vat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:19.859+07:00"}
 ---
 
 # Cô bé quàng khăn đỏ

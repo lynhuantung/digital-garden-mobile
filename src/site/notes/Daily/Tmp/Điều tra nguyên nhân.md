@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-07-28","permalink":"/daily/tmp/dieu-tra-nguyen-nhan/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:02:46.292+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-07-28","permalink":"/daily/tmp/dieu-tra-nguyen-nhan/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:02.771+07:00"}
 ---
 
 # Quy trình Điều tra Nhanh Gọn

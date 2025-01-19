@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/cong-nghe-va-tien-so-cryptocurrency/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:17:36.256+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/cong-nghe-va-tien-so-cryptocurrency/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:25.295+07:00"}
 ---
 
 

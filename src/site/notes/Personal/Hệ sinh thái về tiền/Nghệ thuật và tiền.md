@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/nghe-thuat-va-tien/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:17:57.732+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/nghe-thuat-va-tien/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:26.059+07:00"}
 ---
 
 

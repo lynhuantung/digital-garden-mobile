@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/zettelkasten/zettelkasten/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:13:51.361+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/zettelkasten/zettelkasten/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:18.967+07:00"}
 ---
 
 Phương pháp Zettelkasten là một hệ thống ghi chú và tổ chức thông tin rất hiệu quả, được sáng tạo bởi nhà xã hội học người Đức Niklas Luhmann. Ông sử dụng phương pháp này để quản lý và phát triển những ý tưởng của mình, và nó đã giúp ông viết hơn 70 cuốn sách và hàng trăm bài báo học thuật.

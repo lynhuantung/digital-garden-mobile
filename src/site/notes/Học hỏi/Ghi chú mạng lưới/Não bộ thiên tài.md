@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-09-03","Link":["[[Xoa Thuyet lan truyền kích hoạt]]","[[How to Develop A Super-Power Memory]]","[[Noron thần kinh]]"],"permalink":"/hoc-hoi/ghi-chu-mang-luoi/nao-bo-thien-tai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:08:18.202+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-09-03","Link":["[[Xoa Thuyet lan truyền kích hoạt]]","[[How to Develop A Super-Power Memory]]","[[Noron thần kinh]]"],"permalink":"/hoc-hoi/ghi-chu-mang-luoi/nao-bo-thien-tai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:06.107+07:00"}
 ---
 
 **Mối liên hệ giữa não bộ thiên tài, thuyết lan truyền kích hoạt, và tài liệu về phát triển trí nhớ:**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/phan-tich-thu-nhap-hien-tai-va-lap-ke-hoach-phat-trien-thu-nhap/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:16:25.903+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/phan-tich-thu-nhap-hien-tai-va-lap-ke-hoach-phat-trien-thu-nhap/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:23.075+07:00"}
 ---
 
 # Phân tích thu nhập hiện tại và lập kế hoạch phát triển thu nhập

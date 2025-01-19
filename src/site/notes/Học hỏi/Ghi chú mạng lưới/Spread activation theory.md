@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-08-11","Link":"[[Xoa Thuyet lan truyền kích hoạt]]","permalink":"/hoc-hoi/ghi-chu-mang-luoi/spread-activation-theory/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:08:24.498+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-08-11","Link":"[[Xoa Thuyet lan truyền kích hoạt]]","permalink":"/hoc-hoi/ghi-chu-mang-luoi/spread-activation-theory/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:06.231+07:00"}
 ---
 
 Spread activation theory là một lý thuyết trong tâm lý học nhận thức, đặc biệt là trong lĩnh vực liên quan đến bộ nhớ và xử lý thông tin. Thuyết này mô tả cách mà thông tin được lưu trữ trong trí nhớ và cách mà các mảnh thông tin liên kết với nhau trong tâm trí. Ý tưởng cơ bản của lý thuyết là khi một khái niệm cụ thể trong trí nhớ được kích hoạt, nó sẽ kích hoạt các khái niệm liên quan khác theo một cách "lan tỏa" (spread activation).

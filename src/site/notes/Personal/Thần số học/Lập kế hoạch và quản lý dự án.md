@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/lap-ke-hoach-va-quan-ly-du-an/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:18:46.968+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/lap-ke-hoach-va-quan-ly-du-an/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:28.427+07:00"}
 ---
 
 

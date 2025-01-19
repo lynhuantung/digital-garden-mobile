@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/hien-thuc-hoa-y-tuong-lon/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:18:40.417+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/hien-thuc-hoa-y-tuong-lon/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:28.219+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/co-gai-quang-khan-do/nguy-hiem-tu-nguoi-la/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:15:14.886+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/co-gai-quang-khan-do/nguy-hiem-tu-nguoi-la/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:20.655+07:00"}
 ---
 
 # Nguy hiểm từ người lạ

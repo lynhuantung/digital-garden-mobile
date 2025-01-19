@@ -1,5 +1,5 @@
 ---
-{"title":null,"dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương22","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/c22-amaze-your-friends/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:10:04.848+07:00"}
+{"title":null,"dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương22","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/c22-amaze-your-friends/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:09.095+07:00"}
 ---
 
 ### Impressing Others with Memory Feats

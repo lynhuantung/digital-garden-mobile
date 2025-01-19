@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/tam-ly-hoc-ve-tien/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:18:04.535+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/tam-ly-hoc-ve-tien/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:26.795+07:00"}
 ---
 
 

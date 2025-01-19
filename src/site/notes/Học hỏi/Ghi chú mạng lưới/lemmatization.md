@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["daily"],"Date":"<% tp.date.now(\"YYYY-MM-DD\") %>","permalink":"/hoc-hoi/ghi-chu-mang-luoi/lemmatization/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:08:01.098+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["daily"],"Date":"<% tp.date.now(\"YYYY-MM-DD\") %>","permalink":"/hoc-hoi/ghi-chu-mang-luoi/lemmatization/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:05.731+07:00"}
 ---
 
 

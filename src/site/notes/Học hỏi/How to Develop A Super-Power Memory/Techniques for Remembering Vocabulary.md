@@ -1,5 +1,5 @@
 ---
-{"title":null,"dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương14","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/techniques-for-remembering-vocabulary/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:11:30.957+07:00"}
+{"title":null,"dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương14","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/techniques-for-remembering-vocabulary/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:14.807+07:00"}
 ---
 
 ### Techniques for Remembering Vocabulary

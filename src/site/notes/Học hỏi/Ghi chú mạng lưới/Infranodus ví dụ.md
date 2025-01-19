@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[InfraNodus 1|InfraNodus 1]]","tags":["second-brain"],"Date":"2024-09-15","permalink":"/hoc-hoi/ghi-chu-mang-luoi/infranodus-vi-du/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:07:53.292+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[InfraNodus 1|InfraNodus 1]]","tags":["second-brain"],"Date":"2024-09-15","permalink":"/hoc-hoi/ghi-chu-mang-luoi/infranodus-vi-du/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:05.355+07:00"}
 ---
 
 Dĩ nhiên! Để thực hiện phân tích đoạn văn và thể hiện từ khóa liên kết theo cách mà InfraNodus làm, sau đó thể hiện lại trong dạng ghi chú Obsidian, chúng ta sẽ thực hiện các bước sau đây:

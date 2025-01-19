@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/lich-su-cua-tien/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:17:55.586+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/lich-su-cua-tien/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:25.851+07:00"}
 ---
 
 

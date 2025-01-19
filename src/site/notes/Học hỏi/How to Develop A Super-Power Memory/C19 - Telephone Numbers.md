@@ -1,5 +1,5 @@
 ---
-{"title":null,"dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương19","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/c19-telephone-numbers/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:09:53.249+07:00"}
+{"title":null,"dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương19","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/c19-telephone-numbers/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:08.343+07:00"}
 ---
 
 ### Techniques for Remembering Phone Numbers

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/daily/tmp/obsidian-ket-hop-gemini/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:04:56.167+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/daily/tmp/obsidian-ket-hop-gemini/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:01.111+07:00"}
 ---
 
 Nếu bạn muốn tập trung hoàn toàn vào việc sử dụng Obsidian và kết hợp với Gemini API mà không dùng Infronotous, điều này vẫn hoàn toàn có thể đáp ứng tốt cho việc nghiên cứu và tổ chức thông tin của bạn. Thực tế, Obsidian kết hợp với một công cụ AI như Gemini API vẫn có thể cung cấp một quy trình làm việc hiệu quả và sáng tạo mà không cần phải sử dụng thêm các công cụ khác.

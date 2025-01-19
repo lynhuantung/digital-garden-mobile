@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-06-22","permalink":"/daily/5-loai-ghi-chu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:07:11.722+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-06-22","permalink":"/daily/5-loai-ghi-chu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:27:57.483+07:00"}
 ---
 
 ### Hướng dẫn chi tiết vẽ Mindmap cho hệ thống ghi chú trong Obsidian

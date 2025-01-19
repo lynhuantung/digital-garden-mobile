@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/afrc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:12:09.540+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/afrc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:16.163+07:00"}
 ---
 
 # AFRC (Absolute Fingerprint Ridge Count)

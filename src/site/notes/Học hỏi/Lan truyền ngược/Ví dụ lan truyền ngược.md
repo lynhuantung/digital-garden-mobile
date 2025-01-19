@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/lan-truyen-nguoc/vi-du-lan-truyen-nguoc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:06:46.602+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/lan-truyen-nguoc/vi-du-lan-truyen-nguoc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:15.879+07:00"}
 ---
 
 Ah, mình hiểu ý bạn rồi! Ý của bạn là muốn tạo nhiều ghi chú liên kết wiki trong Obsidian để ghi lại quá trình từ lúc suy nghĩ ra kết quả sai, sau đó dần sửa lỗi, áp dụng lan truyền ngược qua từng bước để tạo ra một hệ thống ghi chú liên kết chặt chẽ. Mình sẽ hướng dẫn cách bạn có thể xây dựng ghi chú theo dạng wiki link để phản ánh quá trình học tập qua các thất bại nhé!

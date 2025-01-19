@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["daily","#idea_notes"],"Date":"2024-10-13","permalink":"/hoc-hoi/ghi-chu-mang-luoi/infranodus-13102024/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:07:57.128+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["daily","#idea_notes"],"Date":"2024-10-13","permalink":"/hoc-hoi/ghi-chu-mang-luoi/infranodus-13102024/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:05.463+07:00"}
 ---
 
 - Infranodus là một công cụ phân tích mạng ngữ nghĩa, giúp người dùng khám phá và hình dung mối quan hệ giữa các ý tưởng trong văn bản. Đây là một ứng dụng dựa trên đồ thị, cho phép người dùng hiểu sâu hơn về các mẫu ẩn trong dữ liệu văn bản, bài viết hoặc ghi chú cá nhân thông qua việc tạo ra đồ thị các khái niệm liên kết với nhau.

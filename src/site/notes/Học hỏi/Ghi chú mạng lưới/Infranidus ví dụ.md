@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[Infranodus-13102024]]","tags":["daily"],"Date":"2024-10-13","permalink":"/hoc-hoi/ghi-chu-mang-luoi/infranidus-vi-du/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:07:24.802+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[Infranodus-13102024]]","tags":["daily"],"Date":"2024-10-13","permalink":"/hoc-hoi/ghi-chu-mang-luoi/infranidus-vi-du/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:04.887+07:00"}
 ---
 
 

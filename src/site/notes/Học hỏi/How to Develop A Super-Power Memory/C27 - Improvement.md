@@ -1,5 +1,5 @@
 ---
-{"title":null,"dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương26","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/c27-improvement/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:10:23.887+07:00"}
+{"title":null,"dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương26","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/c27-improvement/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:10.079+07:00"}
 ---
 
 ### Techniques for Ongoing Memory Development

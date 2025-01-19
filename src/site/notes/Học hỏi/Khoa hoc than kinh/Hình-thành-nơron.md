@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[Khoa-hoc-than-kinh-index]]","tags":["hoc-tập","khoa-học-thần-kinh","noron","synapse","ký-ức"],"Date":null,"permalink":"/hoc-hoi/khoa-hoc-than-kinh/hinh-thanh-noron/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:11:44.059+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[Khoa-hoc-than-kinh-index]]","tags":["hoc-tập","khoa-học-thần-kinh","noron","synapse","ký-ức"],"Date":null,"permalink":"/hoc-hoi/khoa-hoc-than-kinh/hinh-thanh-noron/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:15.119+07:00"}
 ---
 
 # Hình Thành Nơron

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/threats/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:04:50.386+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/brainstorm-temp/so-sanh/threats/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:27:56.275+07:00"}
 ---
 
 # Threats

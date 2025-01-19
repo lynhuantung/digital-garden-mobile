@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["thansohoc"],"permalink":"/personal/than-so-hoc/phan-tich-tinh-cach-than-so-hoc-nu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:19:30.068+07:00"}
+{"dg-publish":true,"dg-home":false,"Permalink":null,"tags":["thansohoc"],"permalink":"/personal/than-so-hoc/phan-tich-tinh-cach-than-so-hoc-nu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:28.671+07:00"}
 ---
 
 

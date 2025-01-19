@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/kiem-tien-tu-kinh-doanh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:16:17.241+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/kiem-tien-tu-kinh-doanh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:22.463+07:00"}
 ---
 
 # Kiếm tiền từ kinh doanh

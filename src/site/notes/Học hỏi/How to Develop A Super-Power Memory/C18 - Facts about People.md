@@ -1,5 +1,5 @@
 ---
-{"title":null,"dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương18","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/c18-facts-about-people/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:09:49.877+07:00"}
+{"title":null,"dg-publish":true,"dg-home":false,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương18","permalink":"/hoc-hoi/how-to-develop-a-super-power-memory/c18-facts-about-people/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:08.215+07:00"}
 ---
 
 ### Techniques for Remembering Personal Details

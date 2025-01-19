@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["ghichu_mangluoi","second-brain"],"Link":["[[Học hỏi/Ghi chú mạng lưới/InfraNodus]]"],"permalink":"/hoc-hoi/ghi-chu-mang-luoi/infranodus-co-che/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:07:35.403+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["ghichu_mangluoi","second-brain"],"Link":["[[Học hỏi/Ghi chú mạng lưới/InfraNodus]]"],"permalink":"/hoc-hoi/ghi-chu-mang-luoi/infranodus-co-che/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:05.015+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/kiem-tien-tu-cong-nghe-va-tien-dien-tu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:16:04.813+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/kiem-tien-tu-cong-nghe-va-tien-dien-tu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:22.203+07:00"}
 ---
 
 # Kiếm tiền từ công nghệ và tiền điện tử

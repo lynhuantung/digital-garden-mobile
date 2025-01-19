@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/daily/phuong-phap-feyman/phuong-phap-feynman/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-13T22:05:36.221+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/daily/phuong-phap-feyman/phuong-phap-feynman/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:27:57.879+07:00"}
 ---
 
 Để trình bày phương pháp Feynman trong Obsidian với dạng wiki link, bạn có thể tạo ghi chú như sau:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/ngon-ngu-co-the-trong-giao-tiep-truc-tiep/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:18:49.313+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/ngon-ngu-co-the-trong-giao-tiep-truc-tiep/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:28.543+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/giao-duc-va-chia-se-kien-thuc-ve-kiem-tien/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:15:58.903+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-kiem-tien/giao-duc-va-chia-se-kien-thuc-ve-kiem-tien/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:21.959+07:00"}
 ---
 
 # Giáo dục và chia sẻ kiến thức về kiếm tiền

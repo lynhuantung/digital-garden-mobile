@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/daily/tmp/noron/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:04:44.268+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/daily/tmp/noron/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:00.359+07:00"}
 ---
 
 [[Học hỏi/Noron thần kinh\|Noron thần kinh]]

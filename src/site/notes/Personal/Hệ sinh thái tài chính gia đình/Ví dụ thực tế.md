@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-tai-chinh-gia-dinh/vi-du-thuc-te/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:17:15.861+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-tai-chinh-gia-dinh/vi-du-thuc-te/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:24.943+07:00"}
 ---
 
 Ví dụ thực tế:

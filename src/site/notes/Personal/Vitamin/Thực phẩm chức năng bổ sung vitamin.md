@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/vitamin/thuc-pham-chuc-nang-bo-sung-vitamin/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:20:33.389+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/vitamin/thuc-pham-chuc-nang-bo-sung-vitamin/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:30.767+07:00"}
 ---
 
 

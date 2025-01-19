@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/co-gai-quang-khan-do/dien-bien-chinh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:15:12.032+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/co-gai-quang-khan-do/dien-bien-chinh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:20.327+07:00"}
 ---
 
 # Diễn biến chính của "Cô bé quàng khăn đỏ"

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/synapse/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:12:30.169+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/synapse/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:16.763+07:00"}
 ---
 
 # Synapse (Khớp thần kinh)

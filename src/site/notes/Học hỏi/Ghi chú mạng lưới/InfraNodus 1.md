@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[Infranodus - cơ chế]]","tags":["second-brain"],"Date":"2024-09-15","permalink":"/hoc-hoi/ghi-chu-mang-luoi/infra-nodus-1/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:07:42.399+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[Infranodus - cơ chế]]","tags":["second-brain"],"Date":"2024-09-15","permalink":"/hoc-hoi/ghi-chu-mang-luoi/infra-nodus-1/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:05.115+07:00"}
 ---
 
 

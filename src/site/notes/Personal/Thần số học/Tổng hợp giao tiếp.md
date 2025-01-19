@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/tong-hop-giao-tiep/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:20:04.825+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/than-so-hoc/tong-hop-giao-tiep/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:29.475+07:00"}
 ---
 
 

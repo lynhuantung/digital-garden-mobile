@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-06-22","permalink":"/hoc-hoi/ghi-chu-mang-luoi/nguong-kich-hoat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:08:21.275+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-06-22","permalink":"/hoc-hoi/ghi-chu-mang-luoi/nguong-kich-hoat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:05.975+07:00"}
 ---
 
 **Ngưỡng kích hoạt (Activation Threshold)** là một khái niệm quan trọng trong Thuyết Lan Truyền Kích Hoạt, liên quan đến cách các khái niệm trong bộ nhớ được kích hoạt và trở nên có ý nghĩa trong quá trình xử lý thông tin. Để hiểu rõ hơn về khái niệm này, hãy xem xét các điểm chính sau đây:

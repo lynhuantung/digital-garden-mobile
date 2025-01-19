@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[Khoa-hoc-than-kinh-index]]","tags":["hoc-tập","khoa-học-thần-kinh","ký-ức","noron","synapse"],"Date":null,"permalink":"/hoc-hoi/khoa-hoc-than-kinh/do-deo-synapse/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:11:41.007+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[Khoa-hoc-than-kinh-index]]","tags":["hoc-tập","khoa-học-thần-kinh","ký-ức","noron","synapse"],"Date":null,"permalink":"/hoc-hoi/khoa-hoc-than-kinh/do-deo-synapse/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:15.327+07:00"}
 ---
 
 ## Độ Dẻo Synapse

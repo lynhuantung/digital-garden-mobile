@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-06-22","permalink":"/daily/tmp/ghi-chu-trong-cong-viec/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:03:00.390+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-06-22","permalink":"/daily/tmp/ghi-chu-trong-cong-viec/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:27:58.991+07:00"}
 ---
 
 Dưới đây là bản tóm tắt dạng mindmap về việc kết hợp quá trình hình thành nơron, củng cố nơron, độ dẻo synapse với phương pháp Zettelkasten và ứng dụng trong ghi chú công việc.

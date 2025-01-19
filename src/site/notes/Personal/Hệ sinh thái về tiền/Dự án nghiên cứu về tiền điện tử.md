@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/du-an-nghien-cuu-ve-tien-dien-tu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:17:47.408+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/personal/he-sinh-thai-ve-tien/du-an-nghien-cuu-ve-tien-dien-tu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:25.383+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[0.Daily]]","tags":["#khoa-học-thần-kinh","#noron","#synapse","#hoc-tập","#ký-ức"],"Date":null,"permalink":"/hoc-hoi/khoa-hoc-than-kinh/khoa-hoc-than-kinh-index/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:11:47.616+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"Permalink":"[[0.Daily]]","tags":["#khoa-học-thần-kinh","#noron","#synapse","#hoc-tập","#ký-ức"],"Date":null,"permalink":"/hoc-hoi/khoa-hoc-than-kinh/khoa-hoc-than-kinh-index/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:15.219+07:00"}
 ---
 
 # Mục Lục Khoa Học Thần Kinh

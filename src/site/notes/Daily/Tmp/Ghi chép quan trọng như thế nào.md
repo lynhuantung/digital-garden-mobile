@@ -1,5 +1,5 @@
 ---
-{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-08-05","permalink":"/daily/tmp/ghi-chep-quan-trong-nhu-the-nao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:02:51.263+07:00"}
+{"Mã":null,"dg-publish":true,"dg-home":false,"tags":["daily"],"Date":"2024-08-05","permalink":"/daily/tmp/ghi-chep-quan-trong-nhu-the-nao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:27:58.711+07:00"}
 ---
 
 ### Tại Sao Ghi Chép Hàng Ngày Quan Trọng?

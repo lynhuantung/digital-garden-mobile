@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/tfrc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:12:33.905+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/hoc-hoi/nao-bo-tong-quan/tfrc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-14T22:28:16.931+07:00"}
 ---
 
 # TFRC (Total Fingerprint Ridge Count)
